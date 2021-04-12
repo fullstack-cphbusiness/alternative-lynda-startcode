@@ -6,7 +6,7 @@ For the remaining parts I suggest you stick to JavaScript to keep focus on Graph
 
 The exercises for this period will provide hints for how to use GraphQL with TypeScript, whitout any additional tools.
 
-# Important
+# Important (for part 3+4)
 Remember to add a .env-file with your connection details:
 
 `CONNECTION=xxxxxx`
